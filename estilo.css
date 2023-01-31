@@ -1,0 +1,60 @@
+html{
+    margin: 0;
+    padding: 0%;
+    background:black;
+    color: #fff;
+    }
+
+body{
+    width: 80%;
+    margin: 10px auto;
+    background:black;
+    
+    }
+    
+    .limpiar{
+        clear: both;
+    }
+    
+header, nav, aside, section, article, Footer{
+margin: 10px 0;
+padding: 20px 0;
+text-align: center;
+font-size: 18px;
+text-transform: uppercase;
+font-weight: bold;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+header{
+    background:blue;
+}
+
+nav{
+background:blue;
+}
+
+ul{
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 4px 10px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+}
+
+
+footer{
+
+    background:blue;
+}
+
+
+
+    
+    
+
